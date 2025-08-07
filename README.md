@@ -1,4 +1,4 @@
-# Exam Timetabling using Nash Equilibrium with Metaheuristic Comparison
+# Solving the Examination Timetabling Problem:A NASH Equilibrium Approach with Genetic Algorithm, Tabu Search and Simulated Annealing Comparisons
 
 This project presents a solution to the **Examination Timetabling Problem (ETP)** using a **Nash Equilibrium-based approach**, aiming to efficiently allocate exams to timeslots while minimizing conflicts and constraint violations.
 
@@ -21,10 +21,3 @@ We also conduct a performance comparison against widely-used **metaheuristic tec
 2. Install required dependencies
 3. Run the main script to generate timetables and compare methods
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-*Developed as part of a research effort to explore game-theoretic approaches in combinatorial optimization problems.*
