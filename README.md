@@ -1,0 +1,1 @@
+Solving the Examination Timetabling Problem using a Nash Equilibrium-based approach, with performance comparison against metaheuristic methods including Genetic Algorithm, Tabu Search, and Simulated Annealing.
